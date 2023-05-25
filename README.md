@@ -15,11 +15,9 @@ This is an Online Examination System, a web-based application that facilitates t
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/online-examination-system.git`
+1. Clone the repository: `git clone https://github.com//online-examination-system.git`
 2. Install the required dependencies: `npm install`
 3. Configure the database settings in `config/database.js`.
-4. Run the application: `npm start`
-5. Access the application in your browser at `http://localhost:3000`
 
 ## Technologies Used
 
