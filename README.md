@@ -20,7 +20,7 @@ This is an Online Examination System, a web-based application that facilitates t
 3. Configure the database settings in `config/database.js`.
 
 ## Technologies Used
-
+### Elips IDE
 - Front-end: HTML, CSS, JavaScript, JSP
 - Back-end: Java
 - Database: ORACLE RDBMS
