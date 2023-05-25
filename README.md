@@ -24,6 +24,7 @@ This is an Online Examination System, a web-based application that facilitates t
 - Front-end: HTML, CSS, JavaScript, JSP
 - Back-end: Java
 - Database: ORACLE RDBMS
+- Server: TOMCAT, APACHE MAVEN
 
 ## Future Enhancements
 
